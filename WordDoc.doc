@@ -1,0 +1,4 @@
+Maleah Ristau
+October 5th 2020
+
+I have changed quite a few things from my UML, the first being the Debug class is now gone and changed to terms. The terms are like the class I used in the trivia program. I needed a class to hold the terms and definitions for the Questions. Orginally I didn't think about that part and instead I thought about having two types of games that would trigger after a if else statement. 
